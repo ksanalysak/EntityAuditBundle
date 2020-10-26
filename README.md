@@ -1,19 +1,6 @@
 # EntityAudit Extension for Doctrine2
 
-| Master | 1.0 Branch |
-|:----------------:|:----------:|
-| [![Build Status](https://travis-ci.org/simplethings/EntityAuditBundle.svg?branch=master)](https://travis-ci.org/simplethings/EntityAuditBundle) | [![Build Status](https://travis-ci.org/simplethings/EntityAuditBundle.svg?branch=1.0)](https://travis-ci.org/simplethings/EntityAuditBundle) |
-|[documentation](https://github.com/simplethings/EntityAuditBundle/blob/master/README.md)|[documentation](https://github.com/simplethings/EntityAudit/blob/1.0/README.md)
-
-**WARNING: Master isn't stable yet and it might not be working! Please use version `^1.0` and this documentation: https://github.com/simplethings/EntityAudit/blob/1.0/README.md**
-
-This extension for Doctrine 2 is inspired by [Hibernate Envers](http://www.jboss.org/envers) and
-allows full versioning of entities and their associations.
-
-## Is this library still maintained?
-
-[Maybe?](https://github.com/simplethings/EntityAudit/issues/203) - please discuss and support us in the linked issue
-
+Forked from [simplethings/entity-audit-bundle](https://github.com/simplethings/EntityAuditBundle)
 ## How does it work?
 
 There are a bunch of different approaches to auditing or versioning of database tables. This extension
